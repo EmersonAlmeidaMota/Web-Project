@@ -3,8 +3,4 @@
 
 Repositório Elaborado em uma Live
 
-A linha foi Alterada diretamente no site! Remotamente
-
-vamos alterar nosso repositório nesse momento para praticar
-
-Essa linha eu alterei remotamente do site GitHub que legal
+Criando uma Pagina modo Login
