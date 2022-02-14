@@ -3,6 +3,6 @@
 
 Repositório Elaborado em uma Live
 
-A linha foi Alterada diratamente no site! Remotamente
+A linha foi Alterada diretamente no site! Remotamente
 
 vamos alterar nosso repositório nesse momento para praticar
